@@ -153,3 +153,33 @@ header.p-section {
   padding: 0 0.25em;
   bottom: 0.2em;
 }
+
+.edu-logo {
+  /* width: 100px; */
+  /* height: 100px; */
+}
+
+/* .ucla-logo-container {
+  width: 65px;
+} */
+
+.edu-logo-container {
+  width: 65px;
+  height: 65px;
+}
+
+.edu-container {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.edu-text-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+.edu-header {
+  /* font-weight: bold; */
+  font-weight: 700;
+}
