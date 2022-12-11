@@ -180,6 +180,17 @@ header.p-section {
 }
 
 .edu-header {
-  /* font-weight: bold; */
   font-weight: 700;
+}
+
+.contact-icons {
+  margin-top: 30px;
+}
+
+.contact-icons i {
+  font-size: 40px;
+}
+
+#header-linkedin {
+  margin-top: 25px;
 }
