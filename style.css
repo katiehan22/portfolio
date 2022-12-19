@@ -194,3 +194,14 @@ header.p-section {
 #header-linkedin {
   margin-top: 25px;
 }
+
+.testimonials-container {
+  display: flex;
+  justify-content: center;
+}
+
+.testimonials-item {
+  width: 46%;
+  margin-left: 4%;
+  margin-right: 4%;
+}
